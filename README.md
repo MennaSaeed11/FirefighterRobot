@@ -1,4 +1,4 @@
-# Fire Detection and Extinguishing Robot
+# Firefighter Robot
 
 This project is a fire detection and extinguishing robot built using an ESP32 microcontroller. 
 The robot is capable of detecting fire using flame sensors, moving toward the fire, triggering an alert via a buzzer, 
