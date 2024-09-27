@@ -24,6 +24,7 @@ displaying information on an LCD screen, and using a servo to simulate extinguis
 - **Tube Pipe**: Used to direct water from the pump to the fire for extinguishing purposes.
 - **Relay**: Can be used to control the water pump or other high-current devices.
 - **LCD Display (I2C)**: Displays status messages such as fire detection and extinguishing status.
+- **Battery 12V**: Powers the DC motors and other components.
 
 ## Circuit
 ![circuit](circuit.png)
